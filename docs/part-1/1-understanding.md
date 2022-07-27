@@ -16,7 +16,7 @@
 ## 学习金字塔理论
 
 美国学者艾德格·戴尔（Edgar Dale）在 1969 年曾经提出过一个“学习金字塔”理论 (The Cone of Learning)，该理论认为，在初次学习两个星期后，通过阅读学习能够记住内容的 10%；通过听讲学习能够记住内容的 20%；通过图片学习能够记住内容的 30%；通过影像、展览、示范、现场观摩来学习能够记住 50%；参与讨论、提问、发言等方式能够记住 70%；做报告、教学、模拟体验、实际操作能够记住 90%。
-![ConeofLearning-old.png](../assets/ConeofLearning-old.png)
+![ConeofLearning-old.png](/assets/ConeofLearning-old.png)
 
 这一理论在语言学习领域有非常广泛的应用。
 对于语言学习来说，仅仅依靠读和听这两种被动的方式来学习，效果并不理想，因为学习者对知识点的理解只停留在浅层上。
@@ -42,7 +42,7 @@ WHY ?
 
 WHY ?
 
-![WHY](../assets/why.png)
+![WHY](/assets/why.png)
 
 我们来看看我到底犯了哪些错误：
 

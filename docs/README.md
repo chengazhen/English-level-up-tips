@@ -29,28 +29,28 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 英语水平等级
 
-![CERF@2x.png](assets/CEFR@2x.png)
+![CERF@2x.png](/assets/CEFR.png)
 
 > 本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
 ## 特色
 
-![Feature@2x.png](assets/Feature.png)
-![How@2x.png](assets/How.png)
+![Feature@2x.png](/assets/Feature.png)
+![How@2x.png](/assets/How.png)
 
 ## 章节
 
-[![understanding@2x.png](assets/understanding@2x.png)](part-1/1-understanding.md)
+[![understanding@2x.png](/assets/understanding@2x.png)](part-1/1-understanding.md)
 
-[![vocabulary@2x.png](assets/vocabulary@2x.png)](part-1/2-vocabulary.md)
+[![vocabulary@2x.png](/assets/vocabulary@2x.png)](part-1/2-vocabulary.md)
 
-[![listening@2x.png](assets/listening@2x.png)](part-1/3-listening.md)
+[![listening@2x.png](/assets/listening@2x.png)](part-1/3-listening.md)
 
-[![reading@2x.png](assets/reading@2x.png)](part-1/4-reading.md)
+[![reading@2x.png](/assets/reading@2x.png)](part-1/4-reading.md)
 
-[![speaking@2x.png](assets/speaking@2x.png)](part-1/5-speaking.md)
+[![speaking@2x.png](/assets/speaking@2x.png)](part-1/5-speaking.md)
 
-[![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
+[![Others@2x.png](/assets/Others@2x.png)](part-2/x-misc.md)
 
 
 ## 感谢
@@ -63,9 +63,9 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 2017 年 6 月 8 日我和一见钟情的女神走到一起，**既然已经得到此生所爱，便不再需要其他奖赏**。 
 
-![](assets/l1.jpeg)
-![](assets/l2.jpeg)
-![](assets/l3.jpeg)
+![](/assets/l1.jpeg)
+![](/assets/l2.jpeg)
+![](/assets/l3.jpeg)
 
    和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
 

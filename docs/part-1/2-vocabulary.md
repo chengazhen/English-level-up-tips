@@ -8,7 +8,7 @@
 得益于语境的帮助，你可以推断出大部分生词的意思，从而可以利用更优秀的原版英语学习材料让学英语如虎添翼，比如：经济学人，英文原著**。
 首先来看看一下英语单词的分布：
 
-![OCE Artboard@2x.png](assets/OCE%20Artboard@2x.png)
+![OCE Artboard@2x.png](/assets/Artboard.png)
 
 > 原图片来源于牛津英文语料库（OEC），我用sketch对照着做了一份，sketch文件在repo的 assets 文件夹内
 
@@ -148,7 +148,7 @@ Ronnie老师有一篇关于记单词的视频，[YouTube链接](https://www.yout
 我搭配使用上面介绍的两种背单词的方法，因为当你的单词本单词达到500甚至更多的时候，你需要尽可能复习更多的单词。
 不然就准备两本词典，经常翻吧。
 
-![字典](../assets/dict. JPG)
+![字典](/assets/dict. JPG)
 
 > 厚重的字典携带起来是极为不便的，还是给自己准备一套顺手的词典软件吧。
 
@@ -161,7 +161,7 @@ Ronnie老师有一篇关于记单词的视频，[YouTube链接](https://www.yout
 无论是在哪里遇到的生词，请一定要集中放到一个可以多终端同步的生词本里，不然之后你去哪找那些遇见的生词呢？
 至于我使用的是哪个词典软件，就不打广告了，只要是拥有多端同步的 app 对我而言都差不多。放张截图：
 
-![单词本截图.png](../assets/word-list-app.png)
+![单词本截图.png](/assets/word-list-app.png)
 
 你可以看到，有些单词就算复习了7年，还是不敢确定自己是完全记住的。
 
@@ -191,8 +191,8 @@ Ronnie老师有一篇关于记单词的视频，[YouTube链接](https://www.yout
 * 修改了词牌样式，减小字号，调整背面答案字段顺序等，以适配移动端应用
 * 通过[Localize Media](https://ankiweb.net/shared/info/1293255374)插件离线所有图片等资源。
 
-  > [麦克米伦7000_a-n.apkg](../assets/麦克米伦7000_imagefix_a-n.apkg)  
-  > [麦克米伦7000_o-z.apkg](../assets/麦克米伦7000_imagefix_o-z.apkg)
+  > [麦克米伦7000_a-n.apkg](/assets/麦克米伦7000_imagefix_a-n.apkg)  
+  > [麦克米伦7000_o-z.apkg](/assets/麦克米伦7000_imagefix_o-z.apkg)
 
 ## 推荐的单词书
 
