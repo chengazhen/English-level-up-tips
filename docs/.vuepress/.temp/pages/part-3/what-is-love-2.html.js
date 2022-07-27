@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3745e7aa\",\"path\":\"/part-3/what-is-love-2.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1658913389000,\"contributors\":[{\"name\":\"chengchongzhen\",\"email\":\"chengchongzhen@hexfuture.net\",\"commits\":1}]},\"filePathRelative\":\"part-3/what-is-love-2.md\"}")

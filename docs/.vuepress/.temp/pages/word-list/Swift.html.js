@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-0151d6e6\",\"path\":\"/word-list/Swift.html\",\"title\":\"Swift\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1658913389000,\"contributors\":[{\"name\":\"chengchongzhen\",\"email\":\"chengchongzhen@hexfuture.net\",\"commits\":1}]},\"filePathRelative\":\"word-list/Swift.md\"}")

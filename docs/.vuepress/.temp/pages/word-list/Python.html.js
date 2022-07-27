@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-b4b88f14\",\"path\":\"/word-list/Python.html\",\"title\":\"Python\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1658913389000,\"contributors\":[{\"name\":\"chengchongzhen\",\"email\":\"chengchongzhen@hexfuture.net\",\"commits\":1}]},\"filePathRelative\":\"word-list/Python.md\"}")

@@ -1,0 +1,19 @@
+<template><div><h1 id="javascript" tabindex="-1"><a class="header-anchor" href="#javascript" aria-hidden="true">#</a> JavaScript</h1>
+<p>animation</p>
+<p>canvas</p>
+<p>decode</p>
+<p>document</p>
+<p>element</p>
+<p>fetch</p>
+<p>frames</p>
+<p>localStorage</p>
+<p>Infinity</p>
+<p>navigator</p>
+<p>performance</p>
+<p>prompt</p>
+<p>screen</p>
+<p>scroll</p>
+<p>typeof</p>
+<p>undefined</p>
+<p>yield</p>
+</div></template>

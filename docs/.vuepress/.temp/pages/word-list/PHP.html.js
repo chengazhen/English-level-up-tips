@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-a4066bf0\",\"path\":\"/word-list/PHP.html\",\"title\":\"PHP\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1658913389000,\"contributors\":[{\"name\":\"chengchongzhen\",\"email\":\"chengchongzhen@hexfuture.net\",\"commits\":1}]},\"filePathRelative\":\"word-list/PHP.md\"}")
