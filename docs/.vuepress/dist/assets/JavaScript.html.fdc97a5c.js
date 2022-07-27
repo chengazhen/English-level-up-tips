@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4c757436","path":"/word-list/JavaScript.html","title":"JavaScript","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658913389000,"contributors":[{"name":"chengchongzhen","email":"chengchongzhen@hexfuture.net","commits":1}]},"filePathRelative":"word-list/JavaScript.md"}');export{t as data};
